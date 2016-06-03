@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integracion", "Integracion\Integracion.csproj", "{60ADB69A-F6BA-4428-83D2-07DAD694718F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integracion.Tests", "Integracion.Tests\Integracion.Tests.csproj", "{BBD10CC9-9E1E-416A-85F0-C11540D4D96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60ADB69A-F6BA-4428-83D2-07DAD694718F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60ADB69A-F6BA-4428-83D2-07DAD694718F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60ADB69A-F6BA-4428-83D2-07DAD694718F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60ADB69A-F6BA-4428-83D2-07DAD694718F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD10CC9-9E1E-416A-85F0-C11540D4D96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD10CC9-9E1E-416A-85F0-C11540D4D96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD10CC9-9E1E-416A-85F0-C11540D4D96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD10CC9-9E1E-416A-85F0-C11540D4D96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
